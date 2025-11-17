@@ -6,7 +6,7 @@ seaborn>=0.13.2
 torch>=2.5.1.post8
 torchvision>=2.5.1
 torchaudio>=0.20.1
-pandas>=2.3.3:w
+pandas>=2.3.3
 numba>=0.60.1
 numpy==2.0.2
 matplotlib>=3.9.4
